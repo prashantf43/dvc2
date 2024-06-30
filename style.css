@@ -142,13 +142,14 @@ h1, h2{
     padding: 10px;
     margin: 20px auto;
     border-radius: 15px;
+    overflow: auto;
 }
 .gallery h1{
     margin-left: 10px;
 }
 
 .gallery div{
-    width: 100%;
+    max-width: 99%;
     height: 340px;
     background-size: cover;
     margin: 10px auto;

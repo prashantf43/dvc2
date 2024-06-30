@@ -74,7 +74,7 @@ h1, h2{
 }
 
 .contact_section{
-    width: 100%;
+    max-width: 100%;
     border-radius: 15px;
     margin: 20px auto;
     background-color: white;
@@ -117,7 +117,7 @@ h1, h2{
 }
 
 .map{
-    width: 100%;
+    max-width: 100%;
     margin: auto;
     background-color: white;
     padding: 10px;
